@@ -1,7 +1,9 @@
-"""Creating A Set"""
+""" * Creating A Set"""
 
-s = {1, 2, 3, 4, 5}
-print(s)
+set = {1, 2, 3, 4, 5}
+print(set)
 
-'''print(s[0])'''
-"""Line Generating err"""
+
+""""No indexing Allowded
+print(s[0])
+Line Generating err"""
