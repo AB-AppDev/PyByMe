@@ -6,3 +6,6 @@ print(myName)
 
 myDir = "C:\\Download\\Code"
 print(myDir)
+
+myEscChars = "\" \' \n \t Newline-Tabbed \n\r\$Hello\\"
+print(myEscChars)
