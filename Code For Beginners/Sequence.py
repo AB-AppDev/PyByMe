@@ -1,17 +1,3 @@
-""" * Creating A Set"""
-
-set = {1, 2, 3, 4, 5}
-print(set)
-print()
-
-"""
-No indexing Allowded
-
->print(s[0])
-
-Line Generating err
-"""
-
 """ * Creating A List - []"""
 
 myList = [2, "Abhishek Bhalerao", "84xxx424xx"]
@@ -60,3 +46,5 @@ Line Generating err -
     print(myTuple[3])
 IndexError: tuple index out of range
 """
+print()
+
