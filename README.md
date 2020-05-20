@@ -1,4 +1,4 @@
 # PyByMe
 PythonCodes
 
-#Coding FOr Learning
+#Coding For Learning
