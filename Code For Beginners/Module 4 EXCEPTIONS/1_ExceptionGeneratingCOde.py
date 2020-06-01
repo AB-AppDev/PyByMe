@@ -3,6 +3,7 @@ Dr = 0
 
 print(Nr / Dr)
 
+
 '''
 
 Traceback (most recent call last):
