@@ -1,7 +1,7 @@
 # Face Recognise
 
 import cv2
-from PyProjects import bulkface
+from PyProjects.ProjectOpenCV import bulkface
 
 Detect = cv2.CascadeClassifier("C:\\Users\\abhis\\Pictures\\Py\\haarcascade_frontalface_default.xml")
 
