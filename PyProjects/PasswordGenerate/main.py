@@ -18,3 +18,7 @@ with open("C:\\Users\\abhis\\Desktop\\PyByMe\\simText.txt", "r") as file:
 paswd = random.choice(upChar) + random.choice(loChar) + random.choice(wordlist) + random.choice(loChar) + str(
     random.choice(numChar)) + random.choice(upChar) + random.choice(spclChar) + random.choice(loChar)
 print(paswd)
+
+
+from PyProjects.PasswordGenerate import readable_pass
+readable_pass
